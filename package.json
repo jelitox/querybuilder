@@ -1,0 +1,9 @@
+{
+  "name": "querybuilder",
+  "version": "1.0.0",
+  "description": "Query Builder for SQL Databases and Rql Documents Databases",
+  "main": "index.js",
+  "author": "Javier León <jel1284@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
